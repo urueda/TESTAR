@@ -15,7 +15,7 @@
 
 ## Releases
 
-**TESTAR v1.3** is coming with many improvements and enhancements: check the [CHANGELOG_v1.3](/CHANGELOG_v1.3). If you are interested and cannot wait for it, please do not hesitate and [make contact](http://webtestar.dsic.upv.es/index.php/contact/) with us ;)
+**TESTAR v1.3** is coming with many improvements and enhancements. If you are interested and cannot wait for it, please do not hesitate and [make contact](http://www.testar.org) with us.
 
 **TESTAR v1.2**: https://github.com/STaQ-PROS-UPV/TESTAR/releases/tag/1.2
 
