@@ -15,7 +15,7 @@
 
 ## Releases
 
-**TESTAR v1.3** is coming with many improvements and enhancements. If you are interested and cannot wait for it, please do not hesitate and [make contact](http://webtestar.dsic.upv.es/index.php/contact/) with us ;)
+**TESTAR v1.3** is under development. Besides Windows 7, it will work also on Window10 and Linux. Also will it be able to test Java Swing applications. If you are interested and cannot wait for it, please do not hesitate and [make contact](http://www.testar.org) with us.
 
 **TESTAR v1.2**: https://github.com/STaQ-PROS-UPV/TESTAR/releases/tag/1.2
 
