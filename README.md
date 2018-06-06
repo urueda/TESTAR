@@ -15,7 +15,7 @@
 
 ## Releases
 
-**TESTAR v1.3** is under development. Besides Windows 7, it will work also on Window10 and Linux. Also will it be able to test Java Swing applications. If you are interested and cannot wait for it, please do not hesitate and [make contact](http://www.testar.org) with us.
+**TESTAR v1.3**: as main developer, technical team supporter, [github TESTAR tool](https://github.com/TESTARtool/TESTAR) manager and user manual editor from 4th February 2016 to 2nd August 2017, there was an unpublished and finished release which included many improvements, enhancements and fixes over the v1.2 version. Since October 2017 I am fully dedicated to alternative research lines in Big Data Genomics. Yet, TESTAR developments are ongoing: check the public TESTAR [website](https://testar.org/).
 
 **TESTAR v1.2**: https://github.com/STaQ-PROS-UPV/TESTAR/releases/tag/1.2
 
