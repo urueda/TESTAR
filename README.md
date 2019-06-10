@@ -15,7 +15,7 @@
 
 ## Releases
 
-**TESTAR v1.3**: as main developer, technical team supporter, [github TESTAR tool](https://github.com/TESTARtool/TESTAR) manager and user manual editor from 4th February 2016 to 2nd August 2017, there was an unpublished and finished release which included many improvements, enhancements and fixes over the v1.2 version (check on my [channel](https://www.youtube.com/channel/UCqWTqeHIEvVV50QosQjmReg)). Since October 2017 I am fully dedicated to alternative research lines in Big Data Genomics. Yet, TESTAR developments are ongoing: check the public TESTAR [website](https://testar.org/).
+**TESTAR v1.3**: as main developer, technical team supporter, [github TESTAR tool](https://github.com/TESTARtool/TESTAR) manager and user manual editor from 4th February 2016 to 2nd August 2017, there was an unpublished and finished release which included many improvements, enhancements and fixes over the v1.2 version (check on the [CHANGELOG](https://github.com/urueda/TESTAR_dev/blob/master/CHANGELOG) and my [channel](https://www.youtube.com/channel/UCqWTqeHIEvVV50QosQjmReg)). Since October 2017 I am fully dedicated to alternative research lines in Big Data Genomics. Yet, TESTAR developments are ongoing: check the public TESTAR [website](https://testar.org/).
 
 **TESTAR v1.2**: https://github.com/STaQ-PROS-UPV/TESTAR/releases/tag/1.2
 
